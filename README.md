@@ -2,7 +2,7 @@
 
 # 🌌 Rebound of the Stars
 
-**Développeur solo — plateformes web, outils SaaS et services numériques**
+**Développeur solo plateformes web, outils SaaS et services numériques**
 Montréal / Laval, Québec 🇨🇦
 
 [🌐 Site officiel](https://reboundofthestars.com)
@@ -13,11 +13,11 @@ Montréal / Laval, Québec 🇨🇦
 
 ## 🚀 Mes projets
 
-### 🤖 Rebound AI — Créateur de sites propulsé par l'IA
+### 🤖 Rebound AI Créateur de sites propulsé par l'IA
 Décris ton projet, l'IA génère ton site, tu le retouches dans un éditeur visuel, et tu le publies. Sites statiques ou WordPress, plans Free / Starter / Business, achat de domaine intégré.
 👉 [platform.reboundofthestars.com](https://platform.reboundofthestars.com)
 
-### 📄 CV Generator — Fais ton CV en quelques minutes
+### 📄 CV Generator Fais ton CV en quelques minutes
 Outil gratuit pour créer un CV propre et l'exporter en PDF.
 👉 [cv-generator.reboundofthestars.com](https://cv-generator.reboundofthestars.com)
 

@@ -3,7 +3,7 @@
 # 🌌 Rebound of the Stars
 
 **Développeur solo plateformes web, outils SaaS et services numériques**
-Montréal / Laval, Québec 🇨🇦
+Montréal /Sauvé, Laval, Québec 🇨🇦
 
 [🌐 Site officiel](https://reboundofthestars.com)
 

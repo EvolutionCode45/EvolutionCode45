@@ -17,16 +17,33 @@ Montréal /Sauvé, Laval, Québec 🇨🇦
 Décris ton projet, l'IA génère ton site, tu le retouches dans un éditeur visuel, et tu le publies. Sites statiques ou WordPress, plans Free / Starter / Business, achat de domaine intégré.
 👉 [platform.reboundofthestars.com](https://platform.reboundofthestars.com)
 
+
 ### 📄 CV Generator Fais ton CV en quelques minutes
 Outil gratuit pour créer un CV propre et l'exporter en PDF.
 👉 [cv-generator.reboundofthestars.com](https://cv-generator.reboundofthestars.com)
 
-### ❤️ Relalove
+
+### Convertisseur d'images professionnel en ligne
+Convertissez, redimensionnez et optimisez vos images instantanément.
+👉 [reboundofthestars.com/convertisseur-images](https://reboundofthestars.com/convertisseur-images)
+
+
+### ❤️ Relalove site de rencontre
 👉 [relalove.com](https://relalove.com)
 
----
 
-## 🛠️ Services pour entreprises et particuliers
+### Boostez votre présence en ligne dès aujourd'hui !
+Création • Réparation • Optimisation • Marketing Digital
+ 9290 De Chateaubriand, Montréal-Nord, QC
+et Boostez votre présence en ligne dès aujourd'hui !
+Création • Réparation • Optimisation • Marketing Digital
+📍 9290 De Chateaubriand, Montréal-Nord, QC
+📞 438-470-4525 📞 438-808-9997
+👉 [reboundofthestars.com/flyer-services](https://reboundofthestars.com/flyer-services)
+
+
+
+### 🛠️ Services pour entreprises et particuliers
 
 - 🌐 Création de sites web
 - 💻 Réparation informatique
@@ -34,7 +51,8 @@ Outil gratuit pour créer un CV propre et l'exporter en PDF.
 - 📸 Photographie
 - 🎙️ Studio de balado
 - 🖨️ Impression personnalisée
-
+-📍 9290 De Chateaubriand, Montréal-Nord, QC
+-📞 438-470-4525 📞 438-808-9997
 👉 [Demander une soumission](https://reboundofthestars.com)
 
 ---
